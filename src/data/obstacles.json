@@ -1,0 +1,44 @@
+[
+  {
+    "name": "blueCar",
+    "spriteImage": "/assets/images/cars-blue-pink.png",
+    "hitboxWidth": 276,
+    "hitboxHeight": 174,
+    "yOffset": 50,
+    "driveAnimation": {
+      "x": 215,
+      "y": 67,
+      "width": 46,
+      "height": 29
+    },
+    "scaleSize": 6
+  },
+  {
+    "name": "pinkCar",
+    "spriteImage": "/assets/images/cars-blue-pink.png",
+    "hitboxWidth": 276,
+    "hitboxHeight": 174,
+    "yOffset": 225,
+    "driveAnimation": {
+      "x": 167,
+      "y": 203,
+      "width": 43,
+      "height": 30
+    },
+    "scaleSize": 6
+  },
+  {
+    "name": "greenCar",
+    "spriteImage": "/assets/images/cars-green-yellow.png",
+    "hitboxWidth": 183,
+    "hitboxHeight": 156,
+    "scaleSize": 3
+  },
+  {
+    "name": "yellowCar",
+    "spriteImage": "/assets/images/cars-green-yellow.png",
+    "hitboxWidth": 183,
+    "hitboxHeight": 156,
+    "scaleSize": 3
+  }
+]

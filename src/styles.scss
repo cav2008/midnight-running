@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "pressStart2p";
+  src: url('./assets/fonts/PressStart2P.ttf');
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background:black url('./assets/images/arcade-bg.jpg') 0 0 / cover no-repeat;
+}
+
+canvas {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1000px;
+  height: 500px;
+  display: block;
+  margin-top: 180px;
+  background-color: #080808;
+  border: 15px solid black;
+}
+
+.brand {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 10px solid purple;
+  width: 400px;
+}
