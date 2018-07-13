@@ -64,7 +64,6 @@ export default class Stage {
    * @param {*} x - the x position to draw.
    */
   draw(image, x) {
-    debugger;
     this.ctx.drawImage(image, x, 0, this.canvas.width, this.canvas.height);
     this.ctx.drawImage(image, x + this.canvas.width, 0, this.canvas.width, this.canvas.height);
   }
