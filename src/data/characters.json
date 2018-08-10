@@ -1,7 +1,7 @@
 [
   {
     "name": "captainFalcon",
-    "spriteImage": "/assets/images/captain-falcon.png",
+    "spriteImage": "./assets/images/captain-falcon.png",
     "yOffset": 50,
     "hitboxWidth": 183,
     "hitboxHeight": 156,

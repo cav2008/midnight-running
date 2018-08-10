@@ -51,11 +51,11 @@ export default class Stage {
    */
   getImage() {
     this.foreground = new Image();
-    this.foreground.src = '../../assets/images/foreground.png';
+    this.foreground.src = './assets/images/foreground.png';
     this.midground = new Image();
-    this.midground.src = '../../assets/images/midground.png';
+    this.midground.src = './assets/images/midground.png';
     this.background = new Image();
-    this.background.src = '../../assets/images/background.png';
+    this.background.src = './assets/images/background.png';
   }
 
   /**

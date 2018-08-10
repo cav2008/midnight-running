@@ -1,7 +1,7 @@
 [
   {
     "name": "blueCar",
-    "spriteImage": "/assets/images/cars-blue-pink.png",
+    "spriteImage": "./assets/images/cars-blue-pink.png",
     "hitboxWidth": 276,
     "hitboxHeight": 174,
     "yOffset": 50,
@@ -15,7 +15,7 @@
   },
   {
     "name": "pinkCar",
-    "spriteImage": "/assets/images/cars-blue-pink.png",
+    "spriteImage": "./assets/images/cars-blue-pink.png",
     "hitboxWidth": 276,
     "hitboxHeight": 174,
     "yOffset": 225,
@@ -29,14 +29,14 @@
   },
   {
     "name": "greenCar",
-    "spriteImage": "/assets/images/cars-green-yellow.png",
+    "spriteImage": "./assets/images/cars-green-yellow.png",
     "hitboxWidth": 183,
     "hitboxHeight": 156,
     "scaleSize": 3
   },
   {
     "name": "yellowCar",
-    "spriteImage": "/assets/images/cars-green-yellow.png",
+    "spriteImage": "./assets/images/cars-green-yellow.png",
     "hitboxWidth": 183,
     "hitboxHeight": 156,
     "scaleSize": 3
